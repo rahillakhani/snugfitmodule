@@ -1,0 +1,2 @@
+# snugfitmodule
+ios only module
